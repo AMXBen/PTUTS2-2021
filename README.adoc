@@ -30,6 +30,7 @@ Ce projet est cloné automatiquement au début de votre projet de PTUT S2, il co
 - Kévin Véronési
 - Benoit Amouroux
 - Ruard Van Der Veen
+- Lucas Boyer
 - ...
 
 :version: v0
