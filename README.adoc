@@ -28,7 +28,7 @@ Ce projet est cloné automatiquement au début de votre projet de PTUT S2, il co
 == Équipe de développement (à mettre à jour)
 
 - Kévin Véronési
-- Membre 2
+- Benoit Amouroux
 - ...
 
 :version: v0
